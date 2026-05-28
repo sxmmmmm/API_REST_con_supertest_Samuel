@@ -11,9 +11,18 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "jest": "^30.4.2",
     "supertest": "^7.2.2"
   },
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganchogol/Ejercicio-5-API-REST-con-Supertest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ganchogol/Ejercicio-5-API-REST-con-Supertest/issues"
+  },
+  "homepage": "https://github.com/ganchogol/Ejercicio-5-API-REST-con-Supertest#readme"
 }
